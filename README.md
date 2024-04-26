@@ -1,7 +1,5 @@
 
-<div class="container">
-  <img src="https://images.ctfassets.net/wowgx05xsdrr/onQYAfBdXlSqFIKXVvHsh/0a085ac310dab17148fdac2109aacb8b/Image-Big-Open-Data-Solutions-Blog-Header.jpg?fm=webp&w=3840&q=75" alt="Logo">
-</div>
+
 
 <h1 align="center">Hello, I'm Divyansh Bhardwaj</h1>
 <h3 align="center">A passionate Data Analyst</h3>
