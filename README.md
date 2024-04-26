@@ -9,7 +9,9 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 
-- 💬 Ask me about **Python (Numpy, Pandas, Seaborn), Microsoft Excel, SQL, Microsoft PowerBI, and SQL Server**
+- About: As an experienced IT professional, and a recent postgraduate diploma in Project Management and Big Data analytics, I possess a unique combination of skills that enable me to extract insights from complex data sets and translate them into actionable business strategies. I have honed and upgraded my analytical skills through a rigorous academic curriculum and gained hands-on experience in Python (Numpy, Pandas, Seaborn, Matplolib), Power BI, SQL, and Microsoft Excel.
+
+Outside of work, I find rejuvenation in swimming laps and channel competitive energy on the badminton court. **Python (Numpy, Pandas, Seaborn), Microsoft Excel, SQL, Microsoft PowerBI, and SQL Server**
 
 - 📫 How to reach me **divyanshb5935@gmail.com**
 
